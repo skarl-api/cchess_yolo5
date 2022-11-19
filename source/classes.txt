@@ -1,0 +1,15 @@
+b_che
+b_ma
+b_xiang
+b_shi
+b_jiang
+b_pao
+b_bing
+r_bing
+r_pao
+r_che
+r_ma
+r_xiang
+r_shi
+r_jiang
+board
